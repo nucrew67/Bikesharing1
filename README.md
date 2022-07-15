@@ -19,9 +19,8 @@ For our presentation, we decide to use data from August 2019 to build our analys
 
 ### Total Rides, Customer Type and Gender Breakdown
 
-![totalrides](https://github.com/amylio/BikeSharing/blob/main/Images/TotalRidesUserGender2.png)
+![totalrides]()
 
-In NYC, there were over 2.3M trips that occurred during the month of August with 81% of the riders in the **"subscriber"** category and that **Men** were the primary user of this program (65%).
 
 
 ### Checkout Times for Users
@@ -34,7 +33,7 @@ Almost all of the trips (99%) were under 60 minutes with 49% under 10 minutes (1
 ### Checkout Times by Gender
 
 ![checkoutgender](https://raw.githubusercontent.com/nucrew67/Bikesharing1/main/images/CheckoutTimesGender.png)
-
+#legend 0=Female 1=Male 2=Unknown
 Male riders are the primary user of the bike share program making up 65% of the population, with the remaining being 25% female and 10% unknown.
 
 
