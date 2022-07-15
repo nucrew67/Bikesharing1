@@ -17,7 +17,6 @@ For our presentation, we decide to use data from August 2019 to build our analys
 
 ### Total Rides, Customer Type and Gender Breakdown
 
-![totalrides]()
 
 
 
