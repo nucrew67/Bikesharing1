@@ -79,7 +79,7 @@ In conclusion, establishing a bike share program in Des Moines, Iowa, might be a
 
 
 
-To calculate the distance traveled, create a visualization that depicts usage from the starting to the ending locations. Where
+To calculate the distance traveled, create a visualization that depicts usage from the starting to the ending locations. 
 
 
     
