@@ -59,6 +59,8 @@ Male riders are more inclined to use the bike sharing program to commute to and 
 
 ![TripWeekGender](https://raw.githubusercontent.com/nucrew67/Bikesharing1/main/images/UserTripsGender.png)
 
+### legend 0=Female 1=Male 2=Unknown
+
 Thursday was the highest usage day among subscribers with the most usage occurring on Saturday for non-subscribers.
 
 
