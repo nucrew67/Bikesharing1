@@ -1,5 +1,5 @@
 # Bikesharing1
-# Analysis (24 points)
+# Analysis 
 
 The written analysis has the following:
 
