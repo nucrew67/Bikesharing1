@@ -61,7 +61,7 @@ Thursday was the highest usage day among subscribers with the most usage occurri
 
 ### Top Ending Location
 
-![TopEnding](https://github.com/amylio/BikeSharing/blob/main/Images/TopEndingLocation.png)
+![TopEnding](https://raw.githubusercontent.com/nucrew67/Bikesharing1/main/images/TopEndingLoc.png)
 
 Usage was more concentrated in Midtown and business areas which would suggest that bikes are primarily used for commuting.
 
