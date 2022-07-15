@@ -67,16 +67,19 @@ Usage was more concentrated in Midtown and business areas which would suggest th
 
 ## Summary
 
-Based on the visualizations above for activities that occurred in New York City, we can summarize:
+We can sum up the activities that took place in New York City based on the visualizations above.
 
-* Stalls located in heavily concentrated business areas, such as Midtown and Downtown made up the majority of the usage. 
-* Subscribers are the primary user.
-* The duration of most trips were under 10 minutes.
+Most of the usage was at stalls situated in densely populated business districts like Midtown and Downtown.
 
-In summary, introducing a bike share program in Des Moines, IA may be a good business venture, as long as the program is installed in densely populated areas where mass transportation is highly used and parking is limited. However, we would need to review additional data in order to provide a strong case to support this recommendation by adding:
+The main users are subscribers.
 
-* Create visualization that maps out usage from starting to ending location to determine the distance traveled. Where are users starting their trip from and why? Are they using the bike to complete their commute after taking the bus or the train? 
-* Add visualization to explore the activity by age group and adding demographic information to identify areas in which bikeshares would most likely be used (i.e. census data).
+Most travels lasted less than ten minutes.
+
+In conclusion, establishing a bike share program in Des Moines, Iowa, might be a wise commercial decision, provided that the program is set up in densely populated areas where mass transit is heavily utilized and parking is at a premium. We would need to examine more information, though, to make a compelling case for this suggestion by adding:
+
+
+
+To calculate the distance traveled, create a visualization that depicts usage from the starting to the ending locations. Where
 
 
     
