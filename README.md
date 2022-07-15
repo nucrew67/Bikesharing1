@@ -2,13 +2,11 @@
 # Analysis 
 
     -Overview of the statistical analysis:
-        The purpose of this analysis is to provide a business proposal that will convince investors that developing a bike-sharing program in Des Moines can be a profitable venture. Throughout the process, we use data that is publicly available from the NYC CitiBike program archives and Tableau to create visualizations.
+        This analysis's goal is to present a business plan that will persuade potential investors that creating a bike-sharing program in Des Moines can be a successful endeavor. Throughout the procedure, we produce visuals using publicly accessible data from the NYC CitiBike program archives and Tableau.
 
-While the data is based on activity that occurred in New York City which is very different from Des Moines, we use our data expertise and critical thinking skills to build a story that can be presented to the investors.
+We use our data knowledge and critical thinking abilities to construct a story that can be presented to investors despite the fact that the data is based on activities that occurred in New York City, which is considerably different from Des Moines.
 
-For our presentation, we decide to use data from August 2019 to build our analysis. It is assumed that there is more traffic or usage during the summer months compared to other times of the year in which weather can impact activity.
-        
-    
+We settle on using data from August 2019 to construct our analysis for our presentation. In comparison to other seasons of the year, it is considered that the summer months have higher traffic or utilization.
 ## Tableau Public Link
 
 [Link to Dashboard](https://public.tableau.com/app/profile/randy.roger/viz/NYCBike-ShareChallenge/CheckoutTimesforUsers)
