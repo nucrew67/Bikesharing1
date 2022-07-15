@@ -47,7 +47,7 @@ Most of the rides during the weekdays (M-F) occur during commuting hours of 8-9a
 
 ### Trips by Gender (Weekday per Hour)
 
-![TripGender](https://github.com/amylio/BikeSharing/blob/main/Images/TripsWeekdayGender%20(Del%202,%20part%204).png?raw=true)
+![TripGender](https://raw.githubusercontent.com/nucrew67/Bikesharing1/main/images/TripsbyGenderWeekday.png)
 
 Male riders are more inclined to use the bike sharing program to commute to and from work, as well as during the weekend.
 
