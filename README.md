@@ -33,7 +33,7 @@ Almost all of the trips (99%) were under 60 minutes with 49% under 10 minutes (1
 
 ### Checkout Times by Gender
 
-![checkoutgender](https://github.com/amylio/BikeSharing/blob/main/Images/CheckoutTimesByGender%20(Del%202%2C%20part%202).png)
+![checkoutgender](https://raw.githubusercontent.com/nucrew67/Bikesharing1/main/images/CheckoutTimesGender.png)
 
 Male riders are the primary user of the bike share program making up 65% of the population, with the remaining being 25% female and 10% unknown.
 
