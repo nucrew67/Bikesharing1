@@ -1,7 +1,5 @@
-# Bikesharing1
-# Analysis 
 
-The written analysis has the following:
+# Analysis 
 
     -Overview of the statistical analysis:
         The purpose of this analysis is to provide a business proposal that will convince investors that developing a bike-sharing program in Des Moines can be a profitable venture. Throughout the process, we use data that is publicly available from the NYC CitiBike program archives and Tableau to create visualizations.
@@ -83,13 +81,9 @@ In summary, introducing a bike share program in Des Moines, IA may be a good bus
 * Create visualization that maps out usage from starting to ending location to determine the distance traveled. Where are users starting their trip from and why? Are they using the bike to complete their commute after taking the bus or the train? 
 * Add visualization to explore the activity by age group and adding demographic information to identify areas in which bikeshares would most likely be used (i.e. census data).
 
-**Additional**
-
-* Review data from other cities that may be a closer match to the population, size and traffic pattern of Des Moines. (Limiting our analysis to activity in New York City is not the correct comparison as New York City has a very large commuter population, as well as higher people traffic from tourism.)
-* Create visualization by month for an entire year to identify if weather affected usage.
 
     
        
 
-    -Summary:
-        There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+   
+        
