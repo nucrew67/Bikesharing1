@@ -40,7 +40,7 @@ Male riders are the primary user of the bike share program making up 65% of the 
 
 ### Trips by Weekday for Each Hour
 
-![TripsWeekday](https://github.com/amylio/BikeSharing/blob/main/Images/TripsWeekday%20(Del%202%2C%20part%203).png)
+![TripsWeekday](https://raw.githubusercontent.com/nucrew67/Bikesharing1/main/images/TripsbyWeekdayHr.png)
 
 Most of the rides during the weekdays (M-F) occur during commuting hours of 8-9a and 5-7pm. It can be assumed that the bike sharing program is the preferred method for commuting to and from work. 
 
