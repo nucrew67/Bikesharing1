@@ -26,7 +26,7 @@ In NYC, there were over 2.3M trips that occurred during the month of August with
 
 ### Checkout Times for Users
 
-![CheckoutTimes](https://github.com/amylio/BikeSharing/blob/main/Images/CheckoutTimes%20(Del%202%2C%20part%201).png)
+![CheckoutTimes](https://raw.githubusercontent.com/nucrew67/Bikesharing1/main/images/CheckoutTimeUsers.png)
 
 Almost all of the trips (99%) were under 60 minutes with 49% under 10 minutes (1.1M vs. 2.3M).
 
